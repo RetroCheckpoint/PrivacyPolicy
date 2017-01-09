@@ -2,23 +2,16 @@
 
 **PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS**
 
-This privacy policy governs your use of the software application [APP NAME] (“Application”) for mobile devices that was created by [DEVELOPER COMPANY NAME]. The Application is [BASIC DESCRIPTION OF THE APP (FEATURES, FUNCTIONALITY AND CONTENT)] 
+This privacy policy governs your use of the software application Retro Checkpoint (“Application”) for mobile devices that was created by Retro Checkpoint. The Application provides and easy way to keep track of the games in your collection. It also serves as a resource that provides information about these games. [BASIC DESCRIPTION OF THE APP (FEATURES, FUNCTIONALITY AND CONTENT)] 
  
 **What information does the Application obtain and how is it used?**
 
 User Provided Information 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
- 
-When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
-Automatically Collected Information 
- 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
- 
-Does the Application collect precise real time location information of the device?
-This Application does not collect precise information about the location of your mobile device. 
- 
-Do third parties see and/or have access to information obtained by the Application?
+All data about your collection is stored locally on your phone and therefore not used by other parties. Interactions to upgrade this app to the pro version is handled through the google playstore. This transaction is between you and the google playstore. The app has **no** need, want or ability to access your personal information.
+
+**Do third parties see and/or have access to information obtained by the Application?**
+As mentioned above all data about your collection is kept locally on the user's device so therefore none of this data is accessable  to thrid parties. Analytic data will not be share
+
 Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
 We may disclose User Provided and Automatically Collected Information:
 •	as required by law, such as to comply with a subpoena, or similar legal process;
