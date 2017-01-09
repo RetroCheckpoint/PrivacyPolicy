@@ -1,9 +1,9 @@
 # PrivacyPolicy
 
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+#PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 This privacy policy governs your use of the software application [APP NAME] (“Application”) for mobile devices that was created by [DEVELOPER COMPANY NAME]. The Application is [BASIC DESCRIPTION OF THE APP (FEATURES, FUNCTIONALITY AND CONTENT)] 
  
-What information does the Application obtain and how is it used?
+#What information does the Application obtain and how is it used?
 User Provided Information 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
  
